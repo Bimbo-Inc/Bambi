@@ -2401,7 +2401,7 @@ div#account.menu_d90b3d.flexible_d90b3d.menu_ad5fac::after {
     transform: scale(1.4, 1.4)
 }
 
-/* :root {
+:root {
     --use-settingsicons: calc(var(--settingsicons, 1) / (var(--settingsicons, 1) + 0.00000000000000000000001));
     --settingsicons-size: 18px;
     --settingsicons-gap: 14px;
@@ -2456,7 +2456,7 @@ div#account.menu_d90b3d.flexible_d90b3d.menu_ad5fac::after {
     --si-vencordupdater: url(https://files.catbox.moe/d0puok.svg);
     --si-vencordcloud: url(https://files.catbox.moe/h9ngyq.svg);
     --si-vencordsettingssync: url(https://files.catbox.moe/m1zwok.svg)
-} */
+}
 
 body #app-mount .sidebarRegion_c25c6d:has(.socialLinks_c44e94) {
     flex-basis: calc(218px + var(--use-settingsicons)*(var(--settingsicons-size) + var(--settingsicons-gap))) !important
